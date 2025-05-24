@@ -21,6 +21,11 @@ Visit my portfolio: 🌐 [viresh-bhurke-portfolio.vercel.app](https://viresh-bhu
 - 🔹 **[VR Training for Industrial Machines](https://viresh-bhurke-portfolio.vercel.app/work/VR-Training-for-Industrial-Machines-with-RL-BDI-Agents)** – Interactive VR with AI agents trained using RL-BDI and CUDA acceleration
 - 🔹 **[Adaptive UI](https://github.com/dugojugo/User-Centric-Adaptive-User-Interface-Extended-to-Augmented-Reality-application)** - Adaptive user interfaces analysis of User interaction with application for enhancing UI curated to individuals, accessibility using dynamic user modeling
 
+## 🏆 Alternate GitHub for Awarded Projects
+
+🎖️ Explore more of my award-winning and hackathon projects hosted here:  
+👉 [github.com/vbhurke](https://github.com/vbhurke)
+
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/vireshbhurke) | [Portfolio](https://viresh-bhurke-portfolio.vercel.app)
 Let me know if you want:
 
