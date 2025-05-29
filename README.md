@@ -16,11 +16,10 @@ Visit my portfolio: 🌐 [viresh-bhurke-portfolio.vercel.app](https://viresh-bhu
 
 🔹 **[SanSkript](https://github.com/dugojugo/SER502-SanSkript-Team25)** – A custom programming language with a Python-Prolog runtime engine  
 🔹 **[PythonVulnbrDetect](https://github.com/dugojugo/PythonVulnbrDetect)** – ML-based Python vulnerability detection using code parsing and classification  
+🔹 **[Adaptive UI](https://github.com/dugojugo/User-Centric-Adaptive-User-Interface-Extended-to-Augmented-Reality-application)** - Adaptive user interfaces analysis of User interaction with application for enhancing UI curated to individuals, accessibility using dynamic user modeling
 🔹 **[AR PET](https://github.com/dugojugo/ARPet)** – An augmented reality game with fox and catfish monsters built using Unity and ARCore  
 🔹 **[AgileTutor](https://github.com/dugojugo/Agile-Simulator)** – A real-time Scrum sprint simulation tool built with JavaFX for agile education  
 🔹 **[VR Training for Industrial Machines](https://viresh-bhurke-portfolio.vercel.app/work/VR-Training-for-Industrial-Machines-with-RL-BDI-Agents)** – Interactive VR with AI agents trained using RL-BDI and CUDA acceleration
-
-🔹 **[Adaptive UI](https://github.com/dugojugo/User-Centric-Adaptive-User-Interface-Extended-to-Augmented-Reality-application)** - Adaptive user interfaces analysis of User interaction with application for enhancing UI curated to individuals, accessibility using dynamic user modeling
 
 ## 🏆 Alternate GitHub for Awarded Projects
 
