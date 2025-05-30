@@ -6,7 +6,7 @@ Visit my portfolio: 🌐 [viresh-bhurke-portfolio.vercel.app](https://viresh-bhu
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing Master’s in Software Engineering @ Arizona State University (GPA: 4.0)
+- 🎓 Completed Master’s in Software Engineering @ Arizona State University (GPA: 4.0)
 - 🕶️ Built VR/AR training simulators and interactive metaverse prototypes in Unity 3D
 - 🤖 Applied ML with Reinforcement Learning and LangChain in AI-powered apps
 - ☁️ Led ASU's Cloud Guild, deploying scalable apps using AWS ECS, ECR, and SageMaker
