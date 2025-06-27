@@ -14,6 +14,7 @@ Visit my portfolio: 🌐 [viresh-bhurke-portfolio.vercel.app](https://viresh-bhu
 
 ## 💡 Featured Projects
 
+🔹 **[WanderGuide AI](https://github.com/dugojugo/Wander-Guide-AI-2.0)** – An AI-powered travel planner built with Next.js, powered by Gemini and MongoDB, featuring a CI/CD pipeline for seamless deployment on Google Cloud.  
 🔹 **[SanSkript](https://github.com/dugojugo/SER502-SanSkript-Team25)** – A custom programming language with a Python-Prolog runtime engine  
 🔹 **[PythonVulnbrDetect](https://github.com/dugojugo/PythonVulnbrDetect)** – ML-based Python vulnerability detection using code parsing and classification  
 🔹 **[AR PET](https://github.com/dugojugo/ARPet)** – An augmented reality game with fox and catfish monsters built using Unity and ARCore  
